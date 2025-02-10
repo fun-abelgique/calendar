@@ -1,0 +1,86 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: lightblue;
+    text-align: center;
+  }
+  
+  #title h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 15px;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  #mydatestring, #gregoriandatestring {
+    font-size: 18px;
+  }
+  
+  h3 {
+    display: initial; /* coderAlejandro for "I don't need to put anything here yet" lol */
+  }
+  
+  h4 {
+    display: initial;
+  }
+  
+  div {
+    padding: 10px;
+  }
+  
+  #months, #months h4 {
+    padding: 5px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table, tr, th, td {
+    padding: 5px;
+    border: 2px solid black;
+  }
+  
+  #months th, #months td {
+    width: 14.2857%;
+  }
+  
+  .year1 {
+    background-color: #aff;
+  }
+  .year2 {
+    background-color: #faf;
+  }
+  .year3 {
+    background-color: #ffa;
+  }
+  .year4 {
+    background-color: #fff;
+  }
+  
+  code {
+    font-size: 14px;
+    background-color: #aabbcc;
+    border: 2px solid #000000;
+    padding: 2px;
+    border-radius: 10px;
+  }
+  
+  .bigcode {
+    font-size: 17px;
+  }
+  
+  #specifics {
+    line-height: 22px;
+  }
